@@ -1,0 +1,16 @@
+let a = '5' + '2';
+alert(a);
+let b = '5' + 2;
+alert(b);
+let v = '5' * '2';
+alert(v);
+let g = '5' - '2';
+alert(g);
+let z = '5' / '2';
+alert(z);
+let x = '5' % '2';
+alert(x);
+let y = '5s' * '2';
+alert(y);
+let u = '' + 3 + 1;
+alert(u);
