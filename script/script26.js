@@ -1,0 +1,14 @@
+let a = Boolean(3);
+alert(a);
+let b = Boolean(0);
+alert(b);
+let v = Boolean(-1);
+alert(v);
+let g = Boolean(-0);
+alert(g);
+let d = Boolean('Polina');
+alert(d);
+let e = Boolean('');
+alert(e);
+let z = Boolean(3 * 'abc');
+alert(z);
