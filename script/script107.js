@@ -5,7 +5,7 @@ if (rest === 0) {
 } else {
 	console.log('делится с остатком' + rest); 
 }
-// 2
+
 let b = 20;
 let rest1 = b % 3;
 if (rest1 === 0) {
